@@ -25,7 +25,7 @@ docker run -d \
 ```
 ### docker-compose
 ```
-version: '2'
+version: '3.8'
 services:
   avc:
     image: morgyn/autovoicechannels
